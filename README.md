@@ -1,5 +1,11 @@
 # SwiftUI-Tutorial
 
+## Feature overview
+
+![SwiftUI-Tutorial — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 ### SwiftUI Essentials
 - Creating and Combining Views  
 <https://developer.apple.com/tutorials/swiftui/creating-and-combining-views>
